@@ -10,6 +10,7 @@
   <version>1.0-SNAPSHOT</version>
   <modules>
     <module>lambda01</module>
+    <module>stream02</module>
   </modules>
 
   <name>lambdaTask</name>
